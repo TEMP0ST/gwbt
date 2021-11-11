@@ -1,0 +1,43 @@
+{
+  "language": "eng",
+  "license": "MIT",
+  "title": "TEMP0ST/gwbt",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/TEMP0ST/gwbt/tree/v0.0.0",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/temp0st-glam-wb/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-softwaredocumentation"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/",
+      "relation": "isPartOf",
+      "resource_type": "other"
+    }
+  ],
+  "version": "v0.0.0",
+  "upload_type": "software",
+  "keywords": [
+    "digital humanities",
+    "Jupyter",
+    "GLAM Workbench"
+  ],
+  "publication_date": "2021-11-11",
+  "creators": {
+    "creator_list": [
+        {
+            "name": "TEMP0ST",
+            "orcid": ""
+        }
+    ]
+},
+  "access_right": "open",
+  "description": ""
+}
